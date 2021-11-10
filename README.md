@@ -37,9 +37,9 @@ python3 ebay-dl.py vegan
 ```
 python3 ebay-dl.py jordans
 ```
-and for the basketball+jersey.json file, 
+and for the basketball jersey.json file, 
 ```
-python3 ebay-dl.py 'basketball jersey'
+python3 ebay-dl.py 'basketball_jersey'
 ```
 
 # How to: CSV files
@@ -57,7 +57,7 @@ for the jordans.csv file,
 ```
 python3 ebay-dl.py --csv jordans
 ```
-and for the basketball+jersey.csv file, 
+and for the basketball_jersey.csv file, 
 ```
 python3 ebay-dl.py --csv "basketball jersey"
 ```
