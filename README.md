@@ -2,7 +2,7 @@
 
 My name is Jacey and I am here to show you how to ebay scrape using python!!!
 
-With this, you can download the content of a specific item, search only a specified the number of pages, and make it into a JSON or .csv file. Steps are below. 
+With this, you can download the content of a specific item, search for only a specified number of pages, and make it into a JSON or .csv file. Steps are below. 
 
 Follow the [project instructions!](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_03)
 
