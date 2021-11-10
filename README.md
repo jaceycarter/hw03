@@ -22,9 +22,9 @@ python3 ebay-dl.py item
 ```
 in the command line. 
 
-To scrape anything other than 10 pages, or search items with 2+ word search terms, run
+To scrape anything other than 10 pages, or search items with 2 or more words, run
 ```
-python3 ebay-dl 'item' --num_pages=x
+python3 ebay-dl 'an item' --num_pages=x
 ```
 
 The items I searched for are vegan, jordans, and basketball jersey. If you want to search these as well, here are the commands.
